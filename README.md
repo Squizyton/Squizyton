@@ -1,10 +1,6 @@
-### Hi there I'm Joel Hanson 👋
+## Hi there I'm Joel Hanson 👋
 
-## 🐲Coding one thing at Time🦄
-<!--
-**Squizyton/Squizyton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🐲Coding one thing at Time🦄
 
 - 🔭 I’m currently working on ...
 - 🐼 Known Languagues: C#, C++, HTML, CSS
@@ -17,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
