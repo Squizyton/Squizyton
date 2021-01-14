@@ -2,7 +2,7 @@
 
 🐲Coding one thing at Time🦄
 
-- 🔭 I’m currently working on [Bandit Rush 2](https://github.com/Squizyton/Bandit-Rush-2)
+- 🔭 I’m currently working on [Bandit Rush 2](https://github.com/Squizyton/Bandit-Rush-2) a sequel to [Bandit Rush](https://squizy.itch.io/bandit-rush) , and learning 3D C++
 - 🐼 Known Languagues: C#, C++, HTML, CSS
 - 🍂 Game Engines: Unity, Unreal, Monogame
 - 🍎 Currently Employed by Tevolve as a game programmer
