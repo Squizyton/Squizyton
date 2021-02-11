@@ -6,7 +6,7 @@
 - 🐼 Known Languagues: C#, C++, HTML, CSS
 - 🍂 Game Engines: Unity, Unreal, Monogame
 - 🍎 Currently Employed by Tevolve as a game programmer
-- 🌱 I’m currently learning 3D C++
+- 🌱 I’m currently learning Gameboy Development in C
 - 👯 I’m looking to collaborate on any project involving a c++ game
 - 🤔 I’m looking for help with OpenGl
 - 💬 Ask me about the desert pie!
