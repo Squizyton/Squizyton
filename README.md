@@ -2,11 +2,11 @@
 
 🐲Coding one thing at Time🦄
 
-- 🔭 I’m currently working on [Bandit Rush 2](https://github.com/Squizyton/Bandit-Rush-2) a sequel to [Bandit Rush](https://squizy.itch.io/bandit-rush)
+- 🔭 I’m currently working modding games
 - 🐼 Known Languagues: C#, C++, HTML, CSS
 - 🍂 Game Engines: Unity, Unreal, Monogame
 - 🍎 Currently Employed by Tevolve as a game programmer
-- 🌱 I’m currently learning Gameboy Development in C
+- 🌱 I’m currently learning  Blade & Sorcery modding
 - 👯 I’m looking to collaborate on any project involving a c++ game
 - 🤔 I’m looking for help with OpenGl
 - 💬 Ask me about the desert pie!
