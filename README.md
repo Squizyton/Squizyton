@@ -5,7 +5,7 @@
 - 🔭 I’m currently working modding games
 - 🐼 Known Languagues: C#, C++, HTML, CSS
 - 🍂 Game Engines: Unity, Unreal, Monogame
-- 🍎 Currently Employed by Tevolve as a game programmer
+- 🍎 Currently Employed by Tevolve as a game programmer using the Unity3D Engine
 - 🌱 I’m currently learning  Blade & Sorcery modding
 - 👯 I’m looking to collaborate on any project involving a c++ game
 - 🤔 I’m looking for help with OpenGl
