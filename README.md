@@ -12,7 +12,7 @@
 - 💬 Ask me about the desert pie!
 - 📫 How to reach me: Twitter or my Itch.Io!
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also know how to play the saxaphone!
+- ⚡ Fun fact: I also know how to play the saxophone!
 
 
 
