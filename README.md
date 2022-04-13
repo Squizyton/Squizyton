@@ -8,7 +8,7 @@
 - 🍎 Currently Employed by Tevolve as a game programmer using the Unity3D Engine
 - 🌱 I’m currently learning  Blade & Sorcery modding
 - 👯 I’m looking to collaborate on any project involving a c++ game
-- 🤔 I’m looking for help with OpenGl
+- 🤔 I’m looking for help with...nothing right now!
 - 💬 Ask me about the desert pie!
 - 📫 How to reach me: Twitter or my Itch.Io!
 - 😄 Pronouns: He/Him
