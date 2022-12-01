@@ -11,7 +11,7 @@ I Like making Gameplay Mechanics! It's fun to do!
 - 🌱 I’m currently learning  Blade & Sorcery modding
 - 👯 I’m looking to collaborate on any project involving a c++ game
 - 🤔 I’m looking for help with...nothing right now!
-- 💬 Ask me about the desert pie!
+- 💬 Ask me about the dessert pie!
 - 📫 How to reach me: Twitter or my Itch.Io!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also know how to play the saxophone!
