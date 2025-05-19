@@ -7,7 +7,7 @@ I Like making Gameplay Mechanics! It's fun to do!
 - 🔭 I’m currently working on modding games. more specifically. Terraria!
 - 🐼 Known Languagues: C#, C++, HTML, CSS
 - 🍂 Game Engines: Unity, Unreal, Monogame
-- 🍎 Currently Employed by Tevolve as a game programmer using the Unity3D Engine
+- 🍎 Currently Employed by Blue Cerberus
 - 🌱 I’m currently learning  Blade & Sorcery modding
 - 👯 I’m looking to collaborate on any project involving a c++ game
 - 🤔 I’m looking for help with...nothing right now!
